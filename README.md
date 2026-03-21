@@ -1,11 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0d1b2e%2C100%3A00ff94&height=200&section=header&text=Hi%2C+I%27m+Ceejay+%F0%9F%91%8B&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=UI%2FUX+Designer+%26+Web+Developer+in+the+making&descAlignY=60&descColor=aaffcc" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF94&center=true&vCenter=true&width=600&lines=UI%2FUX+Designer+%F0%9F%8E%A8;Web+Developer+%F0%9F%92%BB;Figma+to+Code+to+Ship+%F0%9F%9A%80;Based+in+Philippines+%F0%9F%87%B5%F0%9F%87%AD" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%"/>
 </div>
 
 <br/>
@@ -35,7 +29,7 @@ I am very passionate about:
 
 👉 Studying **BS Information Technology** @ Colegio de Santo Cristo de Burgos
 
-👉 Building [**ESignMo**](https://esignmo.vercel.app) — real-time sign language → text & speech web app
+👉 Building [**ESignMo**](https://esignmo.vercel.app) — a sign language to text & speech web app
 
 👉 Designing user-centered interfaces in **Figma** daily
 
@@ -97,21 +91,6 @@ I am very passionate about:
 
 ---
 
-### 🚀 My Projects
-
-<details>
-<summary>▶ Show Projects</summary>
-<br/>
-
-| Project | Description | Stack | Link |
-|--------|-------------|-------|------|
-| 🤟 **ESignMo** | Real-time sign language → text & speech web app | React, TypeScript, Tailwind | [Live ↗](https://esignmo.vercel.app) |
-| 🌐 **Portfolio** | Personal portfolio website | React, TypeScript, Tailwind | [Live ↗](https://ceejay.portfolio-verl.vercel.app) |
-
-</details>
-
----
-
 ### 🌐 Connect With Me
 
 <div align="center">
@@ -149,5 +128,5 @@ I am very passionate about:
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A00ff94%2C100%3A0d1b2e&height=100&section=footer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%"/>
 </div>
